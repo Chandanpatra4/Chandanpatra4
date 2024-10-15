@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandanpatra4
 - 👀 I’m interested in  web development
-- 🌱 I’m currently learning js
+- 🌱 
   
   
 
